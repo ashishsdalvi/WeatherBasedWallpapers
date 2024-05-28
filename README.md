@@ -1,0 +1,1 @@
+After inputting your location and paths to 3 wallpapers, depending on the weather conditions (cloudy, rainy, or clear), your wallpapers will automatically be changed to the wallpapers in the paths the user provided.
